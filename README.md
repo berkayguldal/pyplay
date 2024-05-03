@@ -1,2 +1,2 @@
-# pyplay
-Launcher and downloading platform for PyGame's!
+# PyPlay
+Launcher and downloading platform for game made using PyGame!
